@@ -1,0 +1,16 @@
+tiktoken 
+chromadb
+langchain
+langchain_community
+flask
+GitPython
+python-dotenv
+ipykernel
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+langchain_chroma
+langchain-groq
+huggingface_hub
+-e .
